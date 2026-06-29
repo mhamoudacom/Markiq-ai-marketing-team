@@ -160,6 +160,23 @@ your-workspace/
 └── inbox/                  ← drop files here to auto-process
 ```
 
+> **Note on `benchmarks.md`:** The file at `resources/research/benchmarks.md` ships with industry averages as a starting point. These numbers are placeholders — Omar (the analytics agent) updates them with your real campaign data after every report. Within a few months, this file reflects your actual market and audience, not global averages.
+
+---
+
+## What's New in v1.1.0
+
+**Advanced Frameworks added to 6 agents:**
+
+- **Karim (Content Writer):** Headline Scoring system (5 dimensions, target 35+), 10 Headline Formulas, Value Proposition Canvas, CTA Rules, Page Structure templates
+- **Layla (Ads Specialist):** Context-based Creative Testing Hierarchy (new account vs mature account), 10 Ad Copy Angles
+- **Sara (Email Specialist):** Sequence Type Matrix (6 types incl. Onboarding + Cart Abandonment), 10 Subject Line Formulas, A/B Testing Priority
+- **Rania (Campaign Strategist):** Business Context Detection (SaaS/E-commerce/Agency/Creator), 3-tier Competitive Intelligence, Switching Narrative Template, 8-Week Launch Timeline, Revenue Opportunity Matrix
+- **Dina (Brand Guardian):** Tone of Voice Scoring (4 dimensions, 1-10 scale), Content Scoring Rubric (5 dimensions, target scores by content type)
+- **Omar (Analytics Reporter):** Marketing Scorecard (6 weighted categories), A/B Test Reporting Format with example
+
+**Shared benchmarks file** (`resources/research/benchmarks.md`): Email, Meta Ads, and Funnel benchmarks consolidated in one place. Update with your real client data — the industry averages are starting points only.
+
 ---
 
 ## Frameworks Used
@@ -186,4 +203,4 @@ Digital Marketing Manager | Founder, Dotz Agency | Course Creator
 - 🌐 [mhamouda.com](https://mhamouda.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mhamoudacom/)
 - 📘 [Facebook](https://www.facebook.com/Mgr.mohamedhamouda)
-- Plugin version: 1.0.0
+- Plugin version: 1.1.0
