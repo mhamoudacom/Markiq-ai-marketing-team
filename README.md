@@ -39,7 +39,7 @@ Built by [Mohamed Hamouda](https://mhamouda.com).
 3. Select **"Add from repository"**
 4. Enter this URL:
    ```
-   https://github.com/[your-username]/markiq
+https://github.com/mhamoudacom/Markiq-ai-marketing-team
    ```
 5. Click **Add** → plugin appears in your library
 
