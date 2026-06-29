@@ -178,23 +178,12 @@ Each agent is built on proven marketing frameworks:
 
 ---
 
-## Publishing to Clients / Marketplace
-
-### To share with a client:
-Send them the `markiq.plugin` file. They install it in 30 seconds via the Upload method above.
-
-### To submit to Anthropic's marketplace:
-1. Host this repo on GitHub (public)
-2. Go to [platform.claude.com/plugins/submit](https://platform.claude.com/plugins/submit)
-3. Submit the repo URL
-4. Anthropic reviews and publishes (typically 1-2 weeks)
-
----
-
 ## Built By
 
 **Mohamed Hamouda**
 Digital Marketing Manager | Founder, Dotz Agency | Course Creator
 
-- Website: [mhamouda.com](https://mhamouda.com)
+- 🌐 [mhamouda.com](https://mhamouda.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mhamoudacom/)
+- 📘 [Facebook](https://www.facebook.com/Mgr.mohamedhamouda)
 - Plugin version: 1.0.0
