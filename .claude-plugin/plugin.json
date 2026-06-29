@@ -1,0 +1,10 @@
+{
+  "name": "markiq",
+  "version": "1.0.0",
+  "description": "A complete AI marketing team — 9 specialized agents for content, ads, YouTube, email, strategy, analytics, brand review, and content repurposing. Works for solo brands and agencies. Setup wizard personalizes the system for your business in minutes.",
+  "author": {
+    "name": "Mohamed Hamouda",
+    "url": "https://mhamouda.com"
+  },
+  "keywords": ["marketing", "content", "ads", "youtube", "email", "strategy", "analytics", "brand", "repurpose", "agency", "ai-team"]
+}
