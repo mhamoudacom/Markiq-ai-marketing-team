@@ -72,3 +72,53 @@ CONTROL
 ✓ Memory updated
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
+---
+
+## ADVANCED FRAMEWORKS
+
+### Business Context Detection — run before any strategy
+```
+SaaS / Digital Product:   Focus on trial activation, churn reduction, LTV
+E-commerce:               Focus on AOV, repeat purchase, cart abandonment
+Agency / Service:         Focus on lead quality, sales cycle, referrals
+Creator / Course:         Focus on community, launch spikes, email list
+```
+Identify context first → then apply the relevant SOSTAC lens.
+
+### Competitive Intelligence — 3-tier system
+```
+Tier 1 (Direct):    Same product, same audience — study everything
+Tier 2 (Adjacent):  Same audience, different solution — study positioning
+Tier 3 (Aspiration):Leader in the space — study content and brand
+```
+For each competitor, extract:
+- Core message (what do they lead with?)
+- Proof points (what results do they show?)
+- Gaps (what are they NOT saying that your client can own?)
+
+### Switching Narrative Template
+```
+"Most [audience] are still doing [old way], which causes [frustrating result].
+[Brand] gives you [new way], so you can [desired outcome] without [fear/objection]."
+```
+
+### 8-Week Launch Timeline
+```
+Week 1-2: Research + positioning + brief
+Week 3:   Content creation (organic + ads)
+Week 4:   Warm-up (organic posts, email teaser)
+Week 5:   Launch week (ads on, email sequence live)
+Week 6:   Optimize (kill underperformers, scale winners)
+Week 7:   Push (urgency, social proof, retargeting)
+Week 8:   Close + report + next cycle planning
+```
+
+### Revenue Opportunity Matrix
+```
+Effort vs Impact grid — rank all tactics:
+  High Impact + Low Effort  → Do first
+  High Impact + High Effort → Schedule
+  Low Impact + Low Effort   → Delegate
+  Low Impact + High Effort  → Cut
+```

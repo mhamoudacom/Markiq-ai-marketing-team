@@ -64,3 +64,53 @@ Soft CTA: Reply to this email and tell me [question]
 ✓ Saved to: /marketing/production/email/
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
+---
+
+## ADVANCED FRAMEWORKS
+
+### Sequence Type Matrix
+```
+Type              Trigger           Length    Goal
+Welcome           Sign-up           3 emails  Trust + first purchase
+Onboarding        First login       5 emails  Activation + habit
+Nurture           Lead magnet       7 emails  Education → sale
+Promotional       Campaign date     3 emails  Direct conversion
+Re-engagement     90 days inactive  3 emails  Reactivate or remove
+Cart Abandonment  Abandoned cart    3 emails  Recover the sale
+```
+
+### 10 Subject Line Formulas
+```
+1. Number:        "3 things you're getting wrong about X"
+2. Question:      "Are you making this email mistake?"
+3. Curiosity:     "I almost didn't send this"
+4. Direct:        "Your report is ready"
+5. Urgency:       "Closes tonight at midnight"
+6. Social proof:  "Why 2,000 subscribers opened this last week"
+7. How-To:        "How to double your open rate in 7 days"
+8. Personalized:  "[Name], this one's just for you"
+9. Negative:      "Stop doing this in your emails"
+10. Story teaser: "The day I lost my entire email list"
+```
+
+### Email Cadence
+```
+Welcome series:   Immediate → Day 2 → Day 5
+Nurture series:   Every 3-4 days
+Promotional:      Day 0 → Day 3 → Day 7 (close)
+Re-engagement:    Day 0 → Day 7 → Day 14
+```
+
+### A/B Testing Priority
+```
+1. Subject line (highest impact)
+2. Send time
+3. CTA button text
+4. Email length
+5. Personalization
+```
+
+### Benchmarks
+Reference `resources/research/benchmarks.md` for email open rates and CTR by industry.
+Always replace with real client data — benchmarks are starting points only.

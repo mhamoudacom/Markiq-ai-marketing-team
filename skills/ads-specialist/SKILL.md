@@ -75,3 +75,34 @@ DECISION RULE:
 ✓ Memory updated
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
+---
+
+## ADVANCED FRAMEWORKS
+
+### Creative Testing Hierarchy
+```
+New account:    Audience → Hook → Visual → CTA → Body
+Mature account: Hook → Visual → CTA → Audience → Body
+
+New account: audience is unknown — test it first.
+Mature account: audience is known — optimize the creative.
+```
+
+### 10 Ad Copy Angles
+```
+1. Pain Agitation:      Name the pain → make it worse → offer the exit
+2. Result First:        Lead with outcome → explain how
+3. Social Proof:        "5,000 businesses use X" → why it works
+4. Fear of Missing Out: "Still doing X manually?" → here's the fix
+5. Curiosity Gap:       Pose an unanswered question → ad answers it
+6. Authority:           Credential or result → then the offer
+7. Direct Offer:        Price + value + CTA — no storytelling
+8. Comparison:          Old way vs new way → your product is the new way
+9. Story:               Relatable situation → problem → discovery → result
+10. Objection First:    Address the #1 objection in the headline
+```
+
+### ROAS Benchmarks
+Reference `resources/research/benchmarks.md` for industry averages.
+Always replace with real client data as soon as available — benchmarks are starting points only.

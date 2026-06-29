@@ -65,3 +65,43 @@ NEXT ACTIONS (by priority):
 ✓ Memory updated with: [insight]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
+---
+
+## ADVANCED FRAMEWORKS
+
+### Marketing Scorecard — 6 categories, weighted
+```
+Category              Weight  What to measure
+Traffic & Reach         20%   Sessions, impressions, follower growth
+Engagement              15%   CTR, likes, comments, shares, saves
+Lead Generation         25%   Leads, CPL, lead quality score
+Conversion              25%   Sales, revenue, ROAS, conversion rate
+Retention               10%   Open rate, repeat purchase, churn
+Brand Health             5%   Sentiment, share of voice, NPS
+```
+Score each 1-10, multiply by weight, total = marketing health score.
+
+### Industry Benchmarks
+Reference `resources/research/benchmarks.md` for email, ads, and funnel benchmarks.
+**Always replace with real client data** — industry averages are starting reference points only. The ACTUAL DATA LOG in benchmarks.md is the source of truth.
+
+### A/B Test Reporting Format
+```
+Test:          [What was tested — e.g., Headline A vs Headline B]
+Winner:        [Which version]
+Lift:          [% improvement in the key metric]
+Confidence:    [Statistical confidence level — aim for 95%+]
+Sample size:   [Number of users / impressions per variant]
+Insight:       [What does this tell us about the audience?]
+Next test:     [What to test next based on this finding]
+
+Example:
+Test:       Pain hook vs Result hook in ad headline
+Winner:     Pain hook
+Lift:       +34% CTR
+Confidence: 97%
+Sample:     8,400 impressions per variant
+Insight:    Audience responds more to fear of loss than gain
+Next test:  Pain hook + specific number vs Pain hook + question
+```

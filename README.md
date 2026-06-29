@@ -38,7 +38,8 @@ Built by [Mohamed Hamouda](https://mhamouda.com).
 2. Click **Customize** → **Plugins** → **"+" button** → **Add marketplace**
 3. Select **"Add from repository"**
 4. Enter this URL:
-   ```https://github.com/mhamoudacom/Markiq-ai-marketing-team
+   ```
+   https://github.com/mhamoudacom/Markiq-ai-marketing-team
    ```
 5. Click **Add** → plugin appears in your library
 
@@ -179,7 +180,7 @@ Each agent is built on proven marketing frameworks:
 
 ## Built By
 
-**Mohamed Hamouda**
+**Mohamed Hamouda**  
 Digital Marketing Manager | Founder, Dotz Agency | Course Creator
 
 - 🌐 [mhamouda.com](https://mhamouda.com)

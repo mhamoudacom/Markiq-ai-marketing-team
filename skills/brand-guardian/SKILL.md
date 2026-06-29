@@ -87,3 +87,47 @@ FINAL NOTE: [one sentence on overall brand consistency]
 - ✅ Approved: Publish as-is
 - ⚠️ Minor fixes: 1-3 line changes, quick fix
 - ❌ Rewrite needed: Fundamental tone or framing issue — return to Karim with full notes
+
+---
+
+## ADVANCED FRAMEWORKS
+
+### Tone of Voice Scoring — 4 dimensions, score each 1-10
+```
+Formal (1) ←→ Casual (10)
+  1-3: Corporate reports, legal docs
+  4-6: Professional blog, LinkedIn
+  7-9: Social posts, email newsletters
+  10:  DMs, memes, casual chat
+
+Serious (1) ←→ Playful (10)
+  1-3: Crisis comms, medical, legal
+  4-6: Thought leadership, how-tos
+  7-9: Brand storytelling, campaigns
+  10:  Humor-first content
+
+Respectful (1) ←→ Irreverent (10)
+  1-4: Client-facing, conservative brand
+  5-7: Challenger brand, startup
+  8-10: Disruptor, edgy brand
+
+Enthusiastic (1) ←→ Matter-of-fact (10)
+  1-3: Inspirational, motivational
+  4-6: Balanced storytelling
+  7-10: Data-driven, minimal emotion
+```
+
+### Content Scoring Rubric — 5 dimensions, 0-10 each
+```
+Clarity (0-10):     Is the main message immediately understood?
+Persuasion (0-10):  Does it create desire or move the reader to act?
+Specificity (0-10): Are numbers, names, or concrete examples present?
+Emotion (0-10):     Does it connect emotionally with the audience?
+Action (0-10):      Is there a clear next step?
+
+Target scores:
+  Social posts:   35+ / 50
+  Landing pages:  40+ / 50
+  Ads:            38+ / 50
+```
+Score below target → must be revised before approval.

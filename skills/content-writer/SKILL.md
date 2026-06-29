@@ -73,3 +73,57 @@ CTA: [the call to action]
 ✓ Dina review: pending
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
+---
+
+## ADVANCED FRAMEWORKS
+
+### Headline Scoring — Self-Check before submitting any headline
+Score 0-10 on each dimension, target total **35+**:
+```
+Clarity (0-10):         Is the meaning immediately clear?
+Specificity (0-10):     Numbers or concrete results present?
+Relevance (0-10):       Speaks to the audience's exact pain?
+Differentiation (0-10): Sets the product apart from competitors?
+Emotion (0-10):         Creates curiosity or desire?
+```
+
+### 10 Headline Formulas
+```
+1. Number + Benefit:    "3 Ways to Double Your Conversion Rate"
+2. Curiosity Gap:       "The Mistake That Cost Me 50k"
+3. Direct Benefit:      "Get Your Report in 10 Minutes"
+4. Question:            "Are You Making This SEO Mistake?"
+5. How-To:              "How to Write a Landing Page That Converts at 10%"
+6. Social Proof:        "Why 5,000 Marketers Switched This Month"
+7. Urgency:             "Last Chance: 40% Off Ends at Midnight"
+8. Pattern Interrupt:   "We Were Wrong About Email Marketing"
+9. Negative:            "Stop Wasting Money on Ads That Don't Work"
+10. Before/After:       "From [Old State] to [Result] — Here's How"
+```
+
+### Value Proposition Canvas — before writing for any new brand or offer
+```
+TARGET CUSTOMER:   [Who exactly?]
+PROBLEM:           [What specific painful problem?]
+SOLUTION:          [How does the product solve it?]
+UNIQUE MECHANISM:  [What's the unique method?]
+KEY BENEFIT:       [The #1 result the customer will feel]
+PROOF:             [Numbers, testimonials, results]
+```
+Missing element → flag it before writing.
+
+### CTA Rules — mandatory
+```
+✅ First-person: "Start My Trial" not "Start Your Trial"
+✅ State the value: "Get My Report" not "Submit"
+✅ Reduce risk: "Try Free for 14 Days — No Card Needed"
+✅ Be specific: "Download the 2026 Guide" not "Download"
+✅ Placement: above the fold + after every major section + at the end
+```
+
+### Page Structures — Quick Reference
+```
+HOMEPAGE:    Hero (Headline + Subhead + CTA) → Social proof → Problem → Solution → How it works → Testimonials → CTA
+LANDING PAGE: Headline (one promise) → Hero CTA → Problem → Solution → Benefits (outcomes not features) → Proof + Objections → Final CTA with urgency
+```
